@@ -1,0 +1,10 @@
+{
+  "name": "Hyugi #1",
+  "description": "K-lovely dog",
+  "image": "https://majestic-cheesecake-bfc133.netlify.app/hyugi.jpg",
+  "attributes": [
+    {
+      "name": "hyugi"
+    }
+  ]
+}
